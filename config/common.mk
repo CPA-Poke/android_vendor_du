@@ -103,7 +103,7 @@ endif
 
 # Extra Optional packages
 PRODUCT_PACKAGES += \
-    Apollo \
+    Eleven \
     DU-About \
     LatinIME \
     BluetoothExt \
